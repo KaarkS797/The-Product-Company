@@ -1,0 +1,37 @@
+junk_sk,shipMethod,paymentMethod,orderMethod
+5000,air  ,cash  ,email   
+5001,air  ,cash  ,internet
+5002,air  ,cash  ,phone   
+5003,air  ,charge,email   
+5004,air  ,charge,internet
+5005,air  ,charge,phone   
+5006,air  ,cod   ,email   
+5007,air  ,cod   ,internet
+5008,air  ,cod   ,phone   
+5009,n/a  ,cash  ,email   
+5010,n/a  ,cash  ,internet
+5011,n/a  ,cash  ,phone   
+5012,n/a  ,charge,email   
+5013,n/a  ,charge,internet
+5014,n/a  ,charge,phone   
+5015,n/a  ,cod   ,email   
+5016,n/a  ,cod   ,internet
+5017,n/a  ,cod   ,phone   
+5018,train,cash  ,email   
+5019,train,cash  ,internet
+5020,train,cash  ,phone   
+5021,train,charge,email   
+5022,train,charge,internet
+5023,train,charge,phone   
+5024,train,cod   ,email   
+5025,train,cod   ,internet
+5026,train,cod   ,phone   
+5027,truck,cash  ,email   
+5028,truck,cash  ,internet
+5029,truck,cash  ,phone   
+5030,truck,charge,email   
+5031,truck,charge,internet
+5032,truck,charge,phone   
+5033,truck,cod   ,email   
+5034,truck,cod   ,internet
+5035,truck,cod   ,phone   

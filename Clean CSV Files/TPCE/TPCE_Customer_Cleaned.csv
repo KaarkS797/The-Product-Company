@@ -1,0 +1,40 @@
+customerID,name,addr1,addr2,city,state,zip,custTypeID,typeName
+0,Specialty Teleconstructors Incorporated           ,1570 Hordes Drive                                 ,,Columbia            ,SC,29260,F,US Govt             
+1,Room Plus Incorporated                            ,6037 Ecuadorian Street                            ,Suite 836,Clinton             ,MI,49236,C,Commercial          
+2,Motts Holdings Incorporated                       ,1618 Greenland Street                             ,,Tallahassee         ,FL,32304,E,Education           
+3,Beckman Coulter Incorporated                      ,5841 Pervades Drive                               ,,Fairfax             ,VA,22035,E,Education           
+4,Magainin Pharmaceuticals Incorporated             ,9138 Planetesimal Lane                            ,Dept #332,Twining             ,MI,48766,F,US Govt             
+5,Sterling Financial Corporation Washington         ,7258 Meriting Avenue                              ,Dept #505,Portland            ,OR,97201,E,Education           
+6,Fidelity National Corporation Ga                  ,11455 Sheaf Drive                                 ,Dept #915,Anthony             ,FL,32617,S,State/Local Gov     
+7,Fedders Corporation                               ,3311 Blatantly Circle                             ,Dept #520,Santa Fe Springs    ,CA,90670,E,Education           
+8,United Healthcare Corporation                     ,675 Hordes Turnpike                               ,Dept #855,Malaga              ,NM,88263,E,Education           
+10,Saint Andrews Golf Corporation                    ,8068 Substances Street                            ,,North Miami         ,FL,33261,F,US Govt             
+11,Synaptic Pharmaceutical Corporation               ,8072 Powerless Street                             ,,Bridgeport          ,IL,62417,C,Commercial          
+12,Cohesant Technologies Incorporated                ,3334 Eggshell Circle                              ,Dept #690,Oakley              ,SC,29461,F,US Govt             
+13,Publishing Co Of North America Incorporated       ,978 Degrees Street                                ,Suite 518,Heron Bay           ,AL,36523,S,State/Local Gov     
+14,Newcor Incorporated                               ,8717 Involve Drive                                ,Suite 401,Homer               ,MI,49245,S,State/Local Gov     
+16,Meridian Resources Corporation                    ,1977 Symbiotic Turnpike                           ,Dept #804,Fall River          ,MA,02724,C,Commercial          
+17,V.e.v. Sa                                         ,7079 Aspect Circle                                ,,Ross Siding         ,PA,17723,F,US Govt             
+18,Scp Pool Corporation                              ,755 Leek Street                                   ,Suite 251,Enid                ,OK,73706,F,US Govt             
+19,Camera Platforms International Incorporated       ,5347 Deposed Street                               ,,Houston             ,TX,77244,S,State/Local Gov     
+20,Labor Ready Incorporated                          ,4618 Days Drive                                   ,Dept #759,Waterville          ,WA,98858,F,US Govt             
+21,Shaw Brothers                                     ,2567 Cardinal Drive                               ,Suite 371,Whiskey Flats       ,NV,89415,S,State/Local Gov     
+22,Chemfix Technologies Incorporated                 ,11533 Wonderingly Drive                           ,Suite 50,Pasadena Hills      ,MO,63121,S,State/Local Gov     
+23,Ligand Pharmaceuticals Incorporated               ,8092 Bluest Street                                ,,Moorcroft           ,WY,82721,F,US Govt             
+24,Helpmate Robotics Incorporated                    ,9711 Writers Turnpike                             ,Suite 213,Saint Cloud         ,WI,53079,E,Education           
+25,Liberty Homes Incorporated                        ,3051 Bumblers Lane                                ,,Medon               ,TN,38356,F,US Govt             
+26,Firstfed America Bancorp Incorporated             ,5656 Settler Street                               ,Dept #851,Ward Prairie        ,TX,75840,E,Education           
+27,Lnr Property Corporation                          ,9382 Demolition Street                            ,,College Square      ,IA,50613,F,US Govt             
+28,Gte Corporation                                   ,7196 Heaver Lane                                  ,Dept #532,Winter Garden       ,FL,34777,S,State/Local Gov     
+29,Usx-steel Group Incorporated                      ,7120 Whimsically Turnpike                         ,,Olympia             ,WA,98501,S,State/Local Gov     
+30,Pulitzer Publishing Company                       ,126 Pathological Circle                           ,Suite 277,Woodbury            ,NY,11797,S,State/Local Gov     
+31,Setron                                            ,3085 Breakthrough Drive                           ,Dept #80,Hart                ,MO,64865,S,State/Local Gov     
+32,Greenman Technologies Incorporated                ,4910 Liveried Boulevard                           ,,Dabney              ,IN,47023,F,US Govt             
+33,Polymer Group Incorporated                        ,11368 Harder Drive                                ,Suite 204,Maidstone           ,VT,05905,C,Commercial          
+34,Emerson Electric Company                          ,1792 Squash Drive                                 ,,South Texarkana     ,TX,75501,E,Education           
+35,Integra -- A Hotel & Restaurant Company           ,5222 Blazed Street                                ,Dept #822,Parsons             ,TN,38363,F,US Govt             
+36,Hickory Tech Corporation                          ,11119 Periphery Turnpike                          ,Dept #633,Simpson             ,LA,71474,F,US Govt             
+37,Televideo Incorporated                            ,939 Publishers Turnpike                           ,Dept #793,Fort Hood           ,TX,76544,E,Education           
+38,Seattle Filmworks Incorporated                    ,4958 Dietitian Street                             ,,Davis               ,MO,63379,F,US Govt             
+39,Pricellular Corporation                           ,10947 Eagle Street                                ,Dept #5,Lisbon Falls        ,ME,04252,C,Commercial          
+40,Processing Equipment Corporation                  ,29843 Klingon Road                                ,Dept #2,Naperville          ,IL,60563,C,Commercial          

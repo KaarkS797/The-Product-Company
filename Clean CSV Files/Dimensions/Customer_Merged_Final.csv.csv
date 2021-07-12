@@ -1,0 +1,120 @@
+Customer_SK,custID,name,address1,address2,city,state,zip,custtype_id,custtype_name,division
+5000,35,Ann Lee                                           ,3845 Nunc Road            ,         ,Merizo          ,GA,10764          ,F,US Govt        ,PEC
+5001,39,Ashton Washington                                 ,7726 Donec Road           ,         ,Vallejo         ,MA,01999          ,E,Education      ,TPCW
+5002,25,Atkins                                            ,4607 Risus Road           ,         ,Waukegan        ,NC,43147          ,S,State/Local Gov,PEC
+5003,4,Austin Burns                                      ,2041 Venenatis Avenue     ,         ,Alexandria      ,DC,34440          ,E,Education      ,TPCW
+5004,6,Austin Ferrell                                    ,8666 Justo Road           ,         ,Pullman         ,PA,55979          ,C,Commercial     ,TPCW
+5005,11,Austin Ferrell                                    ,8666 Justo Road           ,         ,Pullman         ,PA,55979          ,C,Commercial     ,PEC
+5006,3,Baxter May                                        ,796-2366 Vel Avenue       ,         ,Meriden         ,FL,58328          ,C,Commercial     ,PEC
+5007,11,Beasley                                           ,7800 Nec Road             ,         ,Idabel          ,MA,57132          ,C,Commercial     ,TPCW
+5008,3,Beckman Coulter Incorporated                      ,5841 Pervades Drive       ,         ,Fairfax         ,VA,22035          ,E,Education      ,TPCE
+5009,1,Beverly Equipment                                 ,7581 Quisque Street       ,         ,Bloomington     ,HI,88440          ,S,State/Local Gov,TPCW
+5010,37,Beverly Equipment                                 ,7581 Quisque Street       ,         ,Bloomington     ,HI,88440          ,S,State/Local Gov,PEC
+5011,38,Blevins                                           ,2571 Donec Avenue         ,         ,Winooski        ,SD,65512          ,C,Commercial     ,TPCW
+5012,29,Blevins                                           ,2571 Donec Avenue         ,         ,Winooski        ,SD,65512          ,C,Commercial     ,PEC
+5013,10,Byron Chemicals                                   ,6831 Donec Street         ,         ,Salt Lake City  ,IN,41050          ,C,Commercial     ,TPCW
+5014,12,Cain                                              ,1116 Augue Street         ,         ,Warwick         ,DC,38450          ,S,State/Local Gov,PEC
+5015,17,Camera Platforms International Incorporated       ,5347 Deposed Street       ,         ,Houston         ,TX,77244          ,S,State/Local Gov,TPCW
+5016,19,Camera Platforms International Incorporated       ,5347 Deposed Street       ,         ,Houston         ,TX,77244          ,S,State/Local Gov,TPCE
+5017,24,Chantale-Huffman Incorporated                     ,2761 Infinity Street      ,         ,New Iberia      ,NH,65327          ,S,State/Local Gov,TPCW
+5018,36,Charity Incorporated                              ,3254 Hendrerit Avenue     ,         ,Effingham       ,WY,27502          ,E,Education      ,TPCW
+5019,23,Chemfix Technologies Incorporated                 , 11533 Wonderingly Drive  ,Suite 50 ,Pasadena Hills  ,MO,63121          ,S,State/Local Gov,TPCW
+5020,22,Chemfix Technologies Incorporated                 ,11533 Wonderingly Drive   ,Suite 50 ,Pasadena Hills  ,MO,63121          ,S,State/Local Gov,TPCE
+5021,27,Clare Baird                                       ,6152 Auctor Road          ,         ,Wilson          ,MS,29338          ,C,Commercial     ,PEC
+5022,2,Clio-Hutchinson                                   ,1257 Ac Avenue            ,         ,Butler          ,SC,82126          ,S,State/Local Gov,TPCW
+5023,12,Cohesant Technologies Incorporated                ,3334 Eggshell Circle      ,Dept #690,Oakley          ,SC,29461          ,F,US Govt        ,TPCE
+5024,15,Colton Maldonado                                  ,1869 Leo Road             ,         ,Cedar Rapids    ,SD,97640          ,C,Commercial     ,PEC
+5025,18,Cross                                             ,6605 Rhoncus Avenue       ,         ,Hopkinsville    ,NH,25620          ,F,US Govt        ,TPCW
+5026,23,Cross                                             ,112 In Road               ,         ,Opelousas       ,GA,43882          ,F,US Govt        ,PEC
+5027,26,Dakota Mills                                      ,7442 Amet Avenue          ,         ,Syracuse        ,DE,56656          ,F,US Govt        ,PEC
+5028,34,Emerson Electric Company                          ,1792 Squash Drive         ,         ,South Texarkana ,TX,75501          ,E,Education      ,TPCE
+5029,19,Emerson Electric Company                          ,1792 Squash Drive         ,         ,South Texarkana ,TX,75501          ,E,Education      ,PEC
+5030,27,Emerson Electric Corporation                      ,1792 Squash Drive         ,         ,South Texarkana ,TX,75501          ,E,Education      ,TPCW
+5031,7,Fedders Corporation                               ,3311 Blatantly Circle     ,Dept #520,Santa Fe Springs,CA,90670          ,E,Education      ,TPCE
+5032,35,Ferdinand Supply                                  ,6979 Quis Street          ,         ,Nome            ,DE,58359          ,F,US Govt        ,TPCW
+5033,32,Ferengi Treasures                                 ,716-6837 Vulputate Avenue ,         ,Paramount       ,NY,35644          ,C,Commercial     ,PEC
+5034,6,Fidelity National Corporation Ga                  ,11455 Sheaf Drive         ,Dept #915,Anthony         ,FL,32617          ,S,State/Local Gov,TPCE
+5035,19,Firstfed America Bancorp Incorporated             ,5656 Settler Street       ,         ,Ward Prairie    ,TX,75840          ,E,Education      ,TPCW
+5036,26,Firstfed America Bancorp Incorporated             ,5656 Settler Street       ,Dept #851,Ward Prairie    ,TX,75840          ,E,Education      ,TPCE
+5037,38,Firstfed America Bancorp Incorporated             ,5656 Settler Street       ,         ,Ward Prairie    ,TX,75840          ,E,Education      ,PEC
+5038,31,Fuentes Incorporated                              ,7063 Phasellus Road       ,         ,Compton         ,WV,68519          ,F,US Govt        ,TPCW
+5039,25,Garrison Works                                    ,3801 Lacus Road           ,         ,Reno            ,WV,46307          ,E,Education      ,TPCW
+5040,8,Gemma Castro                                      ,9101 Duis Street          ,         ,Passaic         ,VT,40926          ,F,US Govt        ,PEC
+5041,29,Genevieve Day                                     ,284-1916 Ac Street        ,         ,Troy            ,IN,68914          ,E,Education      ,TPCW
+5042,16,Googol                                            ,5453 Dictum Avenue        ,         ,Jenks           ,LA,96393          ,C,Commercial     ,PEC
+5043,32,Greenman Technologies Incorporated                ,4910 Liveried Boulevard   ,         ,Dabney          ,IN,47023          ,F,US Govt        ,TPCE
+5044,40,Gte Corporation                                   , 7196 Heaver Lane         ,Dept #555,Winter Garden   ,FL,34777          ,S,State/Local Gov,TPCW
+5045,28,Gte Corporation                                   ,7196 Heaver Lane          ,Dept #532,Winter Garden   ,FL,34777          ,S,State/Local Gov,TPCE
+5046,10,Hammett Farley                                    ,1668 In Street            ,         ,Yonkers         ,AK,18651          ,S,State/Local Gov,PEC
+5047,1,Haynes                                            ,2920 Auctor Road          ,         ,Moraga          ,AZ,70314          ,E,Education      ,PEC
+5048,24,Helpmate Robotics Incorporated                    ,9711 Writers Turnpike     ,Suite 213,Saint Cloud     ,WI,53079          ,E,Education      ,TPCE
+5049,36,Hickory Tech Corporation                          ,11119 Periphery Turnpike  ,Dept #633,Simpson         ,LA,71474          ,F,US Govt        ,TPCE
+5050,7,Hop Adams                                         ,704 Nisl Road             ,         ,Sun Valley      ,NH,84458          ,E,Education      ,TPCW
+5051,21,Hop Adams                                         ,704 Nisl Road             ,         ,Sun Valley      ,NH,84458          ,E,Education      ,PEC
+5052,33,India-Stuart                                      ,1973 At Avenue            ,         ,Cudahy          ,CA,76482          ,F,US Govt        ,TPCW
+5053,35,Integra -- A Hotel & Restaurant Company           ,5222 Blazed Street        ,Dept #822,Parsons         ,TN,38363          ,F,US Govt        ,TPCE
+5054,13,Knight                                            ,765 Eget Avenue           ,         ,Eureka          ,FL,57500          ,F,US Govt        ,PEC
+5055,30,Knox Reid                                         ,500 Eu Avenue             ,         ,Pass Christian  ,WY,35949          ,C,Commercial     ,PEC
+5056,36,Kuame Barnes                                      ,8757 Tincidunt Road       ,         ,Lahaina         ,RI,60529          ,F,US Govt        ,PEC
+5057,20,Labor Ready Incorporated                          ,4618 Days Drive           ,Dept #759,Waterville      ,WA,98858          ,F,US Govt        ,TPCE
+5058,25,Liberty Homes Incorporated                        ,3051 Bumblers Lane        ,         ,Medon           ,TN,38356          ,F,US Govt        ,TPCE
+5059,23,Ligand Pharmaceuticals Incorporated               ,8092 Bluest Street        ,         ,Moorcroft       ,WY,82721          ,F,US Govt        ,TPCE
+5060,27,Lnr Property Corporation                          ,9382 Demolition Street    ,         ,College Square  ,IA,50613          ,F,US Govt        ,TPCE
+5061,4,Magainin Pharmaceuticals Incorporated             ,9138 Planetesimal Lane    ,Dept #332,Twining         ,MI,48766          ,F,US Govt        ,TPCE
+5062,17,Mallory Lynch                                     ,974 Nisl Road             ,         ,Washington      ,ME,15623          ,F,US Govt        ,PEC
+5063,7,Martin Donaldson                                  ,2704 At Road              ,         ,Gardner         ,GA,31421          ,E,Education      ,PEC
+5064,16,Martinez Disposables                              ,5331 Nunc Avenue          ,         ,Tucson          ,DC,79991          ,F,US Govt        ,TPCW
+5065,24,Martinez Disposables                              ,5331 Nunc Avenue          ,         ,Tucson          ,DC,79991          ,F,US Govt        ,PEC
+5066,4,Maya Brewer                                       ,6836 At Road              ,PO Box 82,Union City      ,ND,82051          ,S,State/Local Gov,PEC
+5067,18,Melvin House                                      ,8371 Nullam Road          ,         ,Isle of Palms   ,ME,89644          ,E,Education      ,PEC
+5068,32,Mendoza Chem                                      ,4826 Urna Avenue          ,         ,Everett         ,MD,87048          ,C,Commercial     ,TPCW
+5069,9,Meridian Resources Corporation                    ,1977 Symbiotic Turnpike   ,Dept #805,Fall River      ,MA,02724          ,C,Commercial     ,TPCW
+5070,16,Meridian Resources Corporation                    ,1977 Symbiotic Turnpike   ,Dept #804,Fall River      ,MA,02724          ,C,Commercial     ,TPCE
+5071,15,Merritt Long                                      ,3072 Cursus Avenue        ,Suite 30 ,West Haven      ,WY,83709          ,C,Commercial     ,TPCW
+5072,2,Motts Holdings Incorporated                       ,1618 Greenland Street     ,         ,Tallahassee     ,FL,32304          ,E,Education      ,TPCE
+5073,8,Mullins Incorporated                              ,4009 Ornare Road          ,         ,Birmingham      ,NE,59509          ,S,State/Local Gov,TPCW
+5074,5,Mullins Incorporated                              ,4009 Ornare Road          ,         ,Birmingham      ,NE,59509          ,S,State/Local Gov,PEC
+5075,14,Newcor Incorporated                               ,8717 Involve Drive        ,Suite 401,Homer           ,MI,49245          ,S,State/Local Gov,TPCE
+5076,28,Oleg Jones                                        ,5491 Nec Road             ,         ,Moraga          ,NE,82394          ,C,Commercial     ,TPCW
+5077,20,Pewter Gym                                        ,9028 Non Street           ,         ,Sandy           ,FL,87202          ,C,Commercial     ,PEC
+5078,33,Polymer Group Incorporated                        ,11368 Harder Drive        ,Suite 204,Maidstone       ,VT,05905          ,C,Commercial     ,TPCE
+5079,20,Price Rivers                                      ,2853 Aenean Avenue        ,         ,Sault Ste. Marie,MS,59316          ,S,State/Local Gov,TPCW
+5080,39,Pricellular Corporation                           ,10947 Eagle Street        ,Dept #5  ,Lisbon Falls    ,ME,04252          ,C,Commercial     ,TPCE
+5081,12,Processing Equipment Corporation                  ,29843 Klingon Road        ,         ,Naperville      ,IL,60563          ,C,Commercial     ,TPCW
+5082,40,Processing Equipment Corporation                  ,29843 Klingon Road        ,Dept #2  ,Naperville      ,IL,60563          ,C,Commercial     ,TPCE
+5083,13,Publishing Co Of North America Incorporated       ,978 Degrees Street        ,Suite 518,Heron Bay       ,AL,36523          ,S,State/Local Gov,TPCE
+5084,34,Pulitzer Publishing Company                       ,126 Pathological Circle   ,         ,Woodbury        ,NY,11797          ,S,State/Local Gov,TPCW
+5085,30,Pulitzer Publishing Company                       ,126 Pathological Circle   ,Suite 277,Woodbury        ,NY,11797          ,S,State/Local Gov,TPCE
+5086,6,Raphael Allison                                   ,734-2598 Sed Avenue       ,         ,La Crosse       ,HI,58702          ,C,Commercial     ,PEC
+5087,37,Ronan French                                      ,8773 Feugiat Road         ,         ,Gary            ,WA,17387          ,E,Education      ,TPCW
+5088,39,Ronan French                                      ,8773 Feugiat Road         ,         ,Gary            ,WA,17387          ,E,Education      ,PEC
+5089,1,Room Plus Incorporated                            ,6037 Ecuadorian Street    ,Suite 836,Clinton         ,MI,49236          ,C,Commercial     ,TPCE
+5090,26,Ruby Petty                                        ,3142 Congue Street        ,         ,Chicago         ,IL,76404          ,S,State/Local Gov,TPCW
+5091,2,Rudyard-Knapp                                     ,9261 Nulla Street         ,         ,Sault Ste. Marie,LA,94298          ,S,State/Local Gov,PEC
+5092,5,Saint Andrews Golf Corporation                    ,8068 Substances Street    ,         ,North Miami     ,FL,33261          ,F,US Govt        ,TPCW
+5093,10,Saint Andrews Golf Corporation                    ,8068 Substances Street    ,         ,North Miami     ,FL,33261          ,F,US Govt        ,TPCE
+5094,22,Santiago Processing                               ,4565 Tempor Avenue        ,         ,Hanahan         ,AK,15743          ,S,State/Local Gov,TPCW
+5095,21,Santos LLC                                        ,9130 Fames Road           ,         ,Billings        ,IN,12869          ,C,Commercial     ,TPCW
+5096,28,Schultz Learning                                  ,8542 Quis Street          ,         ,Spartanburg     ,ND,73217          ,E,Education      ,PEC
+5097,18,Scp Pool Corporation                              ,755 Leek Street           ,Suite 251,Enid            ,OK,73706          ,F,US Govt        ,TPCE
+5098,38,Seattle Filmworks Incorporated                    ,4958 Dietitian Street     ,         ,Davis           ,MO,63379          ,F,US Govt        ,TPCE
+5099,14,Serrano                                           ,7212 Eleifend Street      ,         ,Princeton       ,KY,66785          ,C,Commercial     ,PEC
+5100,30,Setron                                            ,3085 Breakthrough Drive   ,Dept #80 ,Hart            ,MO,64865          ,S,State/Local Gov,TPCW
+5101,31,Setron                                            ,3085 Breakthrough Drive   ,Dept #80 ,Hart            ,MO,64865          ,S,State/Local Gov,TPCE
+5102,21,Shaw Brothers                                     ,2567 Cardinal Drive       ,Suite 371,Whiskey Flats   ,NV,89415          ,S,State/Local Gov,TPCE
+5103,0,Specialty Teleconstructors Incorporated           ,1570 Hordes Drive         ,         ,Columbia        ,SC,29260          ,F,US Govt        ,TPCE
+5104,31,Starfleet Academy                                 ,3061 Donec Avenue         ,         ,Canandaigua     ,UT,75963          ,E,Education      ,PEC
+5105,5,Sterling Financial Corporation Washington         ,7258 Meriting Avenue      ,Dept #505,Portland        ,OR,97201          ,E,Education      ,TPCE
+5106,11,Synaptic Pharmaceutical Corporation               ,8072 Powerless Street     ,         ,Bridgeport      ,IL,62417          ,C,Commercial     ,TPCE
+5107,33,Tallulah                                          ,3376 Aliquet Street       ,         ,Batavia         ,NM,50742          ,C,Commercial     ,PEC
+5108,37,Televideo Incorporated                            ,939 Publishers Turnpike   ,Dept #793,Fort Hood       ,TX,76544          ,E,Education      ,TPCE
+5109,14,The Final Frontier                                ,528 Curabitur Road        ,         ,Biddeford       ,MO,39683          ,S,State/Local Gov,TPCW
+5110,9,The Product Company (East)                        ,20021 Barnes Road         ,         ,Stratford       ,NY,13470          ,C,Commercial     ,PEC
+5111,34,The Product Company (West)                        ,21 E BullaRoad Avenue     ,         ,Fresno          ,CA,93710          ,C,Commercial     ,PEC
+5112,8,United Healthcare Corporation                     ,675 Hordes Turnpike       ,Dept #855,Malaga          ,NM,88263          ,E,Education      ,TPCE
+5113,29,Usx-steel Group Incorporated                      ,7120 Whimsically Turnpike ,         ,Olympia         ,WA,98501          ,S,State/Local Gov,TPCE
+5114,17,V.e.v. Sa                                         ,7079 Aspect Circle        ,         ,Ross Siding     ,PA,17723          ,F,US Govt        ,TPCE
+5115,22,Xavier Harmon                                     ,2285 Ante Street          ,         ,Farmington      ,WV,16456          ,E,Education      ,PEC
+5116,3,YuliChem                                          ,6440 Amet Street          ,         ,Laguna Woods    ,KY,53141          ,C,Commercial     ,TPCW
+5117,13,Zena Machines                                     ,1277 Hendrerit Avenue     ,         ,San Juan        ,WA,07066          ,S,State/Local Gov,TPCW
+5118,40,Zena Machines                                     ,1277 Hendrerit Avenue     ,         ,San Juan        ,WA,07066          ,S,State/Local Gov,PEC

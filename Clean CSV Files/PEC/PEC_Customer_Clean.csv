@@ -1,0 +1,41 @@
+custID,name,address,city,State_Code,zip,custtype,CUSTTYPEID,State,TYPENAME
+1,Haynes                                            ,2920 Auctor Road          ,Moraga          ,AZ,70314,Education       ,E ,Arizona             ,Education
+2,Rudyard-Knapp                                     ,9261 Nulla Street         ,Sault Ste. Marie,LA,94298,State/Local Gov ,S ,Louisiana           ,State/Local Gov
+3,Baxter May                                        ,796-2366 Vel Avenue       ,Meriden         ,FL,58328,Commercial      ,C ,Florida             ,Commercial
+4,Maya Brewer                                       ,PO Box 825 6836 At Road   ,Union City      ,ND,82051,State/Local Gov ,S ,North Dakota        ,State/Local Gov
+5,Mullins Incorporated                              ,4009 Ornare Road          ,Birmingham      ,NE,59509,State/Local Gov ,S ,Nebraska            ,State/Local Gov
+6,Raphael Allison                                   ,734-2598 Sed Avenue       ,La Crosse       ,HI,58702,Commercial      ,C ,Hawaii              ,Commercial
+7,Martin Donaldson                                  ,2704 At Road              ,Gardner         ,GA,31421,Education       ,E ,Georgia             ,Education
+8,Gemma Castro                                      ,9101 Duis Street          ,Passaic         ,VT,40926,US Govt         ,F ,Vermont             ,US Govt
+9,The Product Company (East)                        ,20021 Barnes Road         ,Stratford       ,NY,13470,Commercial      ,C ,New York            ,Commercial
+10,Hammett Farley                                    ,1668 In Street            ,Yonkers         ,AK,18651,State/Local Gov ,S ,Alaska              ,State/Local Gov
+11,Austin Ferrell                                    ,8666 Justo Road           ,Pullman         ,PA,55979,Commercial      ,C ,Pennsylvania        ,Commercial
+12,Cain                                              ,1116 Augue Street         ,Warwick         ,DC,38450,State/Local Gov ,S ,District of Columbia,State/Local Gov
+13,Knight                                            ,765 Eget Avenue           ,Eureka          ,FL,57500,US Govt         ,F ,Florida             ,US Govt
+14,Serrano                                           ,7212 Eleifend Street      ,Princeton       ,KY,66785,Commercial      ,C ,Kentucky            ,Commercial
+15,Colton Maldonado                                  ,1869 Leo Road             ,Cedar Rapids    ,SD,97640,Commercial      ,C ,South Dakota        ,Commercial
+16,Googol                                            ,5453 Dictum Avenue        ,Jenks           ,LA,96393,Commercial      ,C ,Louisiana           ,Commercial
+17,Mallory Lynch                                     ,974 Nisl Road             ,Washington      ,ME,15623,US Govt         ,F ,Maine               ,US Govt
+18,Melvin House                                      ,8371 Nullam Road          ,Isle of Palms   ,ME,89644,Education       ,E ,Maine               ,Education
+19,Emerson Electric Company                          ,1792 Squash Drive         ,South Texarkana ,TX,75501,Education       ,E ,Texas               ,Education
+20,Pewter Gym                                        ,9028 Non Street           ,Sandy           ,FL,87202,Commercial      ,C ,Florida             ,Commercial
+21,Hop Adams                                         ,704 Nisl Road             ,Sun Valley      ,NH,84458,Education       ,E ,New Hampshire       ,Education
+22,Xavier Harmon                                     ,2285 Ante Street          ,Farmington      ,WV,16456,Education       ,E ,West Virginia       ,Education
+23,Cross                                             ,112 In Road               ,Opelousas       ,GA,43882,US Govt         ,F ,Georgia             ,US Govt
+24,Martinez Disposables                              ,5331 Nunc Avenue          ,Tucson          ,DC,79991,US Govt         ,F ,District of Columbia,US Govt
+25,Atkins                                            ,4607 Risus Road           ,Waukegan        ,NC,43147,State/Local Gov ,S ,North Carolina      ,State/Local Gov
+26,Dakota Mills                                      ,7442 Amet Avenue          ,Syracuse        ,DE,56656,US Govt         ,F ,Delaware            ,US Govt
+27,Clare Baird                                       ,6152 Auctor Road          ,Wilson          ,MS,29338,Commercial      ,C ,Mississippi         ,Commercial
+28,Schultz Learning                                  ,8542 Quis Street          ,Spartanburg     ,ND,73217,Education       ,E ,North Dakota        ,Education
+29,Blevins                                           ,2571 Donec Avenue         ,Winooski        ,SD,65512,Commercial      ,C ,South Dakota        ,Commercial
+30,Knox Reid                                         ,500 Eu Avenue             ,Pass Christian  ,WY,35949,Commercial      ,C ,Wyoming             ,Commercial
+31,Starfleet Academy                                 ,3061 Donec Avenue         ,Canandaigua     ,UT,75963,Education       ,E ,Utah                ,Education
+32,Ferengi Treasures                                 ,716-6837 Vulputate Avenue ,Paramount       ,NY,35644,Commercial      ,C ,New York            ,Commercial
+33,Tallulah                                          ,3376 Aliquet Street       ,Batavia         ,NM,50742,Commercial      ,C ,New Mexico          ,Commercial
+34,The Product Company (West)                        ,21 E BullaRoad Avenue     ,Fresno          ,CA,93710,Commercial      ,C ,California          ,Commercial
+35,Ann Lee                                           ,3845 Nunc Road            ,Merizo          ,GA,10764,US Govt         ,F ,Georgia             ,US Govt
+36,Kuame Barnes                                      ,8757 Tincidunt Road       ,Lahaina         ,RI,60529,US Govt         ,F ,Rhode Island        ,US Govt
+37,Beverly Equipment                                 ,7581 Quisque Street       ,Bloomington     ,HI,88440,State/Local Gov ,S ,Hawaii              ,State/Local Gov
+38,Firstfed America Bancorp Incorporated             ,5656 Settler Street       ,Ward Prairie    ,TX,75840,Education       ,E ,Texas               ,Education
+39,Ronan French                                      ,8773 Feugiat Road         ,Gary            ,WA,17387,Education       ,E ,Washington          ,Education
+40,Zena Machines                                     ,1277 Hendrerit Avenue     ,San Juan        ,WA,07066,State/Local Gov ,S ,Washington          ,State/Local Gov
