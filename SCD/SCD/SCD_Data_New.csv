@@ -1,0 +1,33 @@
+Product_ID(NK),Product_Division,Product_Name,price1,price2,UnitCost,ProductType_ID,ProductType_Description,BUID,Business_Name,Business_Unit_Abbreviation
+18,PEC,Allis Polishing Equipment            ,202,176,112,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+56,TPCE,Allis Polishing Equipment            ,202,176,161,3,Polishing Equipment    ,A,Processing Equipment- Damaged,Equipment
+56,TPCW,Allis Polishing Equipment            ,202,176,161,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+92,TPCE,Behind Tray Supplies                 ,167,139,129,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+92,TPCW,Behind Tray Supplies                 ,167,139,129,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+94,TPCE,Beliefs Freezing Chemicals - TPCE          ,567,484,455,11,Freezing Chemicals     ,C,Chemicals           ,Chemicals
+94,TPCW,Beliefs Freezing Chemicals           ,567,484,455,11,Freezing Chemicals     ,C,Chemicals           ,Chemicals
+41,TPCE,Consideration Tray Supplies          ,173,147,140,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+41,TPCW,Consideration Tray Supplies          ,173,147,140,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+9,PEC,Defeated Tray Supplies               ,560,477,448,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+10,TPCE,Defeated Tray Supplies - TPCE              ,560,477,448,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+10,TPCW,Defeated Tray Supplies               ,560,477,448,8,Tray Supplies          ,B,Disposable Supplies ,Supplies 
+54,TPCE,Honeymoon Photo Chemicals            ,326,292,272,9,Photo Chemicals        ,C,Chemicals Expired          ,Chemicals
+54,TPCW,Honeymoon Photo Chemicals            ,326,292,272,9,Photo Chemicals        ,C,Chemicals           ,Chemicals
+16,PEC,Insensitivity Manufacturing Equipment,201,180,117,2,Manufacturing Equipment,A,Processing Equipment,Equipment
+40,TPCE,Insensitivity Manufacturing Equipment,201,180,170,2,Manufacturing Equipment,A,Processing Equipment,Equipment
+40,TPCW,Insensitivity Manufacturing Equipment,201,180,170,2,Manufacturing Equipment,A,Processing Equipment- Damaged,Equipment
+28,PEC,Palm Polishing Equipment             ,122,105,87,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+81,TPCE,Palm Polishing Equipment - TPCE             ,122,105,103,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+53,TPCE,Ruffle Freezing Chemicals            ,476,395,379,11,Freezing Chemicals     ,C,Chemicals           ,Chemicals
+53,TPCW,Ruffle Freezing Chemicals            ,476,395,379,11,Freezing Chemicals     ,C,Chemicals Expired          ,Chemicals
+17,PEC,Sortie Covers                        ,248,213,207,13,Covers                 ,D,Miscellaneous       ,Misc     
+3,TPCE,Sortie Covers                        ,248,213,207,13,Covers                 ,D,Miscellaneous       ,Misc     
+3,TPCW,Sortie Covers - TPCW                       ,248,213,207,13,Covers                 ,D,Miscellaneous       ,Misc     
+84,TPCE,Unjust Paper Supplies                ,223,182,177,6,Paper Supplies         ,B,Disposable Supplies ,Supplies 
+84,TPCW,Unjust Paper Supplies                ,223,182,177,6,Paper Supplies         ,B,Disposable Supplies ,Supplies 
+27,PEC,Vastest Photo Equipment              ,498,442,294,1,Photo Equipment        ,A,Processing Equipment,Equipment
+77,TPCE,Vastest Photo Equipment              ,498,442,420,1,Photo Equipment        ,A,Processing Equipment,Equipment
+77,TPCW,Vastest Photo Equipment              ,498,442,420,1,Photo Equipment        ,A,Processing Equipment- Damaged,Equipment
+21,PEC,Weeks Polishing Equipment            ,199,174,151,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+63,TPCE,Weeks Polishing Equipment            ,199,174,169,3,Polishing Equipment    ,A,Processing Equipment,Equipment
+63,TPCW,Weeks Polishing Equipment - TPCW          ,199,174,169,3,Polishing Equipment    ,A,Processing Equipment,Equipment

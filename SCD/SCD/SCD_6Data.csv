@@ -1,0 +1,30 @@
+Customer_ID(NK),Customer_Division,Customer_Name,Customer_Address1,Customer_Address2,Customer_City,Customer_State,Customer_Zip,Customer_TypeID,Customer_TypeName
+35,PEC,Ann Lee Sr.                                     ,3845 Nunc Square Road            ,         ,Merizo          ,GA,10764,F,US Govt        
+35,PEC,Ann Lee Jr.                                     ,3845 Nunc Drive            ,         ,Merizo          ,GA,10764,F,US Govt        
+39,TPCW,Ashton Martin                            ,7726 Donec Road           ,         ,Vallejo         ,MA,1999,E,Education      
+11,TPCW,Beasley Ron                                     ,7800 Nec Road             ,         ,Idabel          ,MA,57132,C,Commercial     
+25,TPCW,Harrison Works                               ,3801 Lacus Road           ,         ,Reno            ,WV,46307,E,Education      
+8,PEC,Gemma Chang                                 ,9101 Duis Lomb Drive          ,         ,Passaic         ,VT,40926,F,US Govt        
+29,TPCW,Tennesse Day                                ,284-1916 Ac Street        ,         ,Troy            ,IN,68914,E,Education      
+16,PEC,Googol  Babni                              ,5453 Dictum Avenue        ,         ,Jenks           ,LA,96393,C,Commercial     
+32,TPCE,Greenman Technologies Incorporated           ,4910 Washington Blvd,         ,Dabney          ,IN,47023,F,US Govt        
+10,PEC,Hammett Button-Mosher                               ,1668 In Street            ,         ,Yonkers         ,AK,18651,S,State/Local Gov
+1,PEC,Haynes Campbell                                      ,2920 Auctor Road          ,         ,Moraga          ,AZ,70314,E,Education      
+24,TPCE,Helpmate Robotics Criss               ,9711 Writers Turnpike     ,Suite 213,Saint Cloud     ,WI,53079,E,Education      
+36,TPCE,Hickory Tech Eliss                     ,11119 Bausch Memorial Road ,Dept #633,Simpson         ,LA,71474,F,US Govt        
+33,TPCW,India-Stuart Little                              ,1973 Days Avenue            ,         ,Cudahy          ,CA,76482,F,US Govt        
+35,TPCE,Integra -- A Hotel & Restaurant Franchise      ,5275 Blazed Lane        ,Dept #822,Parsons         ,TN,38363,F,US Govt        
+13,PEC,Knight Riders                                      ,765 Eget Avenue           ,         ,Eureka          ,FL,57500,F,US Govt        
+30,PEC,Knox Reid                                    ,500 Eu Avenue             ,         ,Pass Christian  ,WY,35949,C,Commercial     
+36,PEC,Kuame Barnes                                 ,8757 Tincidunt Road       ,         ,Lahaina         ,RI,60529,F,US Govt        
+20,TPCE,Labor Ready Incorporated                     ,4618 Days Drive           ,Dept #759,Waterville      ,WA,98858,F,US Govt        
+25,TPCE,Liberty Homes Incorporated                   ,3051 Bumblers Lane        ,         ,Medon           ,TN,38356,F,US Govt        
+23,TPCE,Ligand Pharmaceuticals Incorporated          ,8092 Bluest Street        ,         ,Moorcroft       ,WY,82721,F,US Govt        
+27,TPCE,Lnr Property Corporation                     ,9382 Demolition Street    ,         ,College Square  ,IA,50613,F,US Govt        
+4,TPCE,Magainin Pharmaceuticals Incorporated        ,9138 Planetesimal Lane    ,Dept #332,Twining         ,MI,48766,F,US Govt        
+17,PEC,Mallory Lynch                                ,974 Nisl Road             ,         ,Washington      ,ME,15623,F,US Govt        
+7,PEC,Martin Donaldson                             ,2704 At Road              ,         ,Gardner         ,GA,31421,E,Education      
+16,TPCW,Martinez Disposables                         ,5331 Nunc Avenue          ,         ,Tucson          ,DC,79991,F,US Govt        
+22,PEC,Xavier Harmon                                     ,2285 Ante Street          ,,Farmington      ,WV,16456,E,Education      
+3,TPCW,YuliChem Zhang                                       ,6440 Amet Street          ,,Laguna Woods    ,KY,53141,C,Commercial     
+13,TPCW,Zena Machines                                     ,1277 Fight Avenue     ,,San Juan        ,WA,7066,S,State/Local Gov
